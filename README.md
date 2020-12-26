@@ -19,7 +19,11 @@
 #### 🎣 <a href="https://sanksu.top/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-
+* <a href=http://example.com/2020/11/14/%E4%B8%AA%E6%80%A7%E5%8C%96Github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/ target='_blank'>个性化Github个人主页</a> - 2020-11-14
+* <a href=http://example.com/2020/10/17/%E5%9C%A82020%E5%B9%B4%E6%8D%A1%E4%B8%80%E5%8F%B0iPhone4/ target='_blank'>在2020年捡一台iPhone4</a> - 2020-10-17
+* <a href=http://example.com/2020/10/17/%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8D%E5%AD%97%E9%80%81%E4%B8%8A%E7%81%AB%E6%98%9F/ target='_blank'>把自己的名字送上火星</a> - 2020-10-17
+* <a href=http://example.com/2020/07/28/%E5%AE%89%E8%A3%85WSL%E5%B9%B6%E5%AE%89%E8%A3%85%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2/ target='_blank'>安装WSL并安装图形界面</a> - 2020-07-28
+* <a href=http://example.com/2020/07/24/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%8564%E4%BD%8D%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/ target='_blank'>树莓派安装64位宝塔面板</a> - 2020-07-24
 <!-- blog ends -->
 
 </td>
@@ -32,7 +36,9 @@
 <!-- code_time starts -->
 
 ```text
-
+EJS      🕓 3h21m █████████████████▊░░░░░░░░░░░░ 59.2%
+CSS      🕓 2h17m ████████████▏░░░░░░░░░░░░░░░░░ 40.5%
+Markdown 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.2%
 ```
 
 <!-- code_time ends -->
@@ -45,7 +51,11 @@
 <!-- play_time starts -->
 
 ```text
-
+🔫 Counter-Strike: Global Offensive 🕘 406 hrs 37 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 235 hrs 57 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 168 hrs 21 mins
+🎮 Sea of Thieves                   🕘 41 hrs 27 mins
+🎮 Counter-Strike                   🕘 20 hrs 11 mins
 ```
 
 <!-- play_time ends -->
@@ -60,7 +70,11 @@
 <!-- music_time starts -->
 
 ```text
-
+🥇 The truth that you leave - Pianoboy高至豪  ·  40 plays
+🥈 Bloom of Youth - 清水淳一  ·  37 plays
+🥉 A Little Story - Valentin  ·  33 plays
+   城南花已开 - 三亩地  ·  32 plays
+   The Right Path - Thomas Greenberg  ·  31 plays
 ```
 
 <!-- music_time ends -->
