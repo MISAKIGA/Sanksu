@@ -85,7 +85,7 @@ Markdown 🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 #### 🏋️‍♀️ <a href="https://github.com/sanksu/sanksu/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-
+* <a href=https://github.com/Sanksu/Sanksu/releases/tag/1.0 target='_blank'>Sanksu build_readme</a> - 2020-12-26
 <!-- recent_releases ends -->
 
 </td>
