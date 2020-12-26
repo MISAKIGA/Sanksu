@@ -16,6 +16,7 @@ jobs:
       run: |-
         git clone https://github.com/Sanksu/Sanksu/ ~/Sanksu
         cd ~/Sanksu
+        git pull
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
