@@ -49,10 +49,10 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 407 hrs 38 mins
+🔫 Counter-Strike: Global Offensive 🕘 410 hrs 46 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 235 hrs 57 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 171 hrs 36 mins
-🎮 Sea of Thieves                   🕘 41 hrs 27 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 176 hrs 48 mins
+🎮 Sea of Thieves                   🕘 43 hrs 40 mins
 🎮 Counter-Strike                   🕘 20 hrs 11 mins
 ```
 
@@ -68,11 +68,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 The truth that you leave - Pianoboy高至豪  ·  36 plays
-🥈 A Little Story - Valentin  ·  35 plays
-🥉 Bloom of Youth - 清水淳一  ·  32 plays
-   The Right Path - Thomas Greenberg  ·  27 plays
-   所念皆星河 - CMJ  ·  27 plays
+🥇 The Right Path - Thomas Greenberg  ·  34 plays
+🥈 Bloom of Youth - 清水淳一  ·  33 plays
+🥉 η - α·Pav  ·  29 plays
+   城南花已开 - 三亩地  ·  27 plays
+   The truth that you leave - Pianoboy高至豪  ·  26 plays
 ```
 
 <!-- music_time ends -->
