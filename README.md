@@ -51,7 +51,7 @@ Still Gathering Statistics...
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 410 hrs 46 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 235 hrs 57 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 176 hrs 48 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 182 hrs 38 mins
 🎮 Sea of Thieves                   🕘 43 hrs 40 mins
 🎮 Counter-Strike                   🕘 20 hrs 11 mins
 ```
