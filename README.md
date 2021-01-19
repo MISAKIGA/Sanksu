@@ -49,9 +49,9 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 411 hrs 14 mins
+🔫 Counter-Strike: Global Offensive 🕘 415 hrs 8 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 235 hrs 57 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 184 hrs 14 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 191 hrs 39 mins
 🎮 Sea of Thieves                   🕘 43 hrs 40 mins
 🎮 Counter-Strike                   🕘 20 hrs 11 mins
 ```
@@ -68,11 +68,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 A Little Story - Valentin  ·  52 plays
-🥈 River Flows In You - Martin Ermen  ·  45 plays
-🥉 The truth that you leave - Pianoboy高至豪  ·  45 plays
-   Bloom of Youth - 清水淳一  ·  44 plays
-   ζ - α·Pav  ·  39 plays
+🥇 River Flows In You - Martin Ermen  ·  57 plays
+🥈 Bloom of Youth - 清水淳一  ·  56 plays
+🥉 A Little Story - Valentin  ·  54 plays
+   η - α·Pav  ·  54 plays
+   城南花已开 - 三亩地  ·  49 plays
 ```
 
 <!-- music_time ends -->
