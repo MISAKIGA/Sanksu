@@ -2,8 +2,11 @@
 
 我是 Sanksu，以下内容通过 [GitHub Actions](https://github.com/sanksu/sanksu/actions) 自动更新，感谢 [Tw93/Github 首页自动信息工作流](https://github.com/tw93/tw93)
 
+
+!!!
 <iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
 <style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+!!!
 
 ![mona-whisper.gif](https://i.loli.net/2020/12/13/shjJv47WkqaFp1R.gif)
 
