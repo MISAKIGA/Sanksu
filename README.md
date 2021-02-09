@@ -51,11 +51,11 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 419 hrs 50 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 253 hrs 23 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 235 hrs 57 mins
+🔫 Counter-Strike: Global Offensive 🕘 435 hrs 10 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 288 hrs 17 mins
 🎮 Sea of Thieves                   🕘 46 hrs 20 mins
 🎮 Counter-Strike                   🕘 20 hrs 11 mins
+💻 Wallpaper Engine                 🕘 12 hrs 55 mins
 ```
 
 <!-- play_time ends -->
@@ -70,11 +70,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 城南花已开 - 三亩地  ·  28 plays
-🥈 River Flows In You - Martin Ermen  ·  28 plays
-🥉 夏夜 - 四季音色  ·  27 plays
-   忆夏思乡 - MoreanP  ·  24 plays
-   花火が瞬く夜に - 羽肿  ·  24 plays
+🥇 Bloom of Youth - 清水淳一  ·  70 plays
+🥈 Where are you - AniFace  ·  56 plays
+🥉 The Right Path - Thomas Greenberg  ·  55 plays
+   River Flows In You - Martin Ermen  ·  55 plays
+   星茶会 - 灰澈  ·  54 plays
 ```
 
 <!-- music_time ends -->
