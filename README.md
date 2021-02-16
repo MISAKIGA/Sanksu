@@ -51,9 +51,9 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 438 hrs 8 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 292 hrs 20 mins
-🎮 Sea of Thieves                   🕘 46 hrs 20 mins
+🔫 Counter-Strike: Global Offensive 🕘 451 hrs 42 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 310 hrs 16 mins
+🎮 Sea of Thieves                   🕘 47 hrs 43 mins
 🎮 Counter-Strike                   🕘 20 hrs 11 mins
 💻 Wallpaper Engine                 🕘 13 hrs 1 mins
 ```
@@ -70,11 +70,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 Bloom of Youth - 清水淳一  ·  70 plays
-🥈 Where are you - AniFace  ·  56 plays
-🥉 The Right Path - Thomas Greenberg  ·  55 plays
-   River Flows In You - Martin Ermen  ·  55 plays
-   星茶会 - 灰澈  ·  54 plays
+🥇 The Right Path - Thomas Greenberg  ·  20 plays
+🥈 風の住む街 - 磯村由紀子  ·  18 plays
+🥉 A Little Story - Valentin  ·  17 plays
+   Journey - Capo Productions  ·  16 plays
+   The truth that you leave - Pianoboy高至豪  ·  16 plays
 ```
 
 <!-- music_time ends -->
