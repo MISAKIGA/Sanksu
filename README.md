@@ -51,11 +51,11 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 451 hrs 42 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 310 hrs 16 mins
+🔫 Counter-Strike: Global Offensive 🕘 475 hrs 14 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 331 hrs 41 mins
 🎮 Sea of Thieves                   🕘 47 hrs 43 mins
-🎮 Counter-Strike                   🕘 20 hrs 11 mins
-💻 Wallpaper Engine                 🕘 13 hrs 1 mins
+🎮 Counter-Strike                   🕘 20 hrs 46 mins
+💻 Wallpaper Engine                 🕘 13 hrs 2 mins
 ```
 
 <!-- play_time ends -->
@@ -70,11 +70,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 The Right Path - Thomas Greenberg  ·  20 plays
-🥈 風の住む街 - 磯村由紀子  ·  18 plays
-🥉 A Little Story - Valentin  ·  17 plays
-   Journey - Capo Productions  ·  16 plays
-   The truth that you leave - Pianoboy高至豪  ·  16 plays
+🥇 手纸 - 西村由紀江  ·  2 plays
+🥈 Ephemeral Memories（Without Drum) - MoreanP  ·  2 plays
+🥉 The Tide - 植地雅哉  ·  2 plays
+   Morning In The Meadow - Laura Sullivan  ·  2 plays
+   The Sound of Silence - Dan Gibson  ·  2 plays
 ```
 
 <!-- music_time ends -->
