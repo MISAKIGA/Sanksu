@@ -51,8 +51,8 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 475 hrs 14 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 331 hrs 41 mins
+🔫 Counter-Strike: Global Offensive 🕘 475 hrs 18 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 341 hrs 57 mins
 🎮 Sea of Thieves                   🕘 47 hrs 43 mins
 🎮 Counter-Strike                   🕘 20 hrs 46 mins
 💻 Wallpaper Engine                 🕘 13 hrs 2 mins
@@ -70,11 +70,7 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 手纸 - 西村由紀江  ·  2 plays
-🥈 Ephemeral Memories（Without Drum) - MoreanP  ·  2 plays
-🥉 The Tide - 植地雅哉  ·  2 plays
-   Morning In The Meadow - Laura Sullivan  ·  2 plays
-   The Sound of Silence - Dan Gibson  ·  2 plays
+404: Not Found
 ```
 
 <!-- music_time ends -->
