@@ -71,7 +71,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-404: Not Found
+🥇 Bloom of Youth - 清水淳一  ·  1 plays
+🥈 The Tide - 植地雅哉  ·  1 plays
+🥉 星星点灯 - 郑智化  ·  1 plays
+   The Sound Of Silence - Simon & Garfunkel  ·  1 plays
+   The Sound of Silence - Dan Gibson  ·  1 plays
 ```
 
 <!-- music_time ends -->
