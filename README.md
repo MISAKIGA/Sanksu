@@ -52,8 +52,8 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 485 hrs 4 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 369 hrs 44 mins
+🔫 Counter-Strike: Global Offensive 🕘 488 hrs 51 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 382 hrs 31 mins
 🎮 Sea of Thieves                   🕘 47 hrs 43 mins
 🎮 Counter-Strike                   🕘 21 hrs 34 mins
 💻 Wallpaper Engine                 🕘 13 hrs 3 mins
@@ -71,11 +71,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 The Tide - 植地雅哉  ·  1 plays
-🥈 The Sound Of Silence - Simon & Garfunkel  ·  1 plays
-🥉 The Sound of Silence - Dan Gibson  ·  1 plays
-   流れ行く云 - 岸部眞明  ·  1 plays
-   Time travel - 岸部眞明  ·  1 plays
+🥇 You Are The Moonlight - Endless Melancholy  ·  2 plays
+🥈 柳叶笺 - 朱彦安/张诗莉  ·  1 plays
+🥉 夜游 feat. Himawari - Aosaki/Himawari  ·  1 plays
+   Autumn In Quebec - Steve Barakatt  ·  1 plays
+   Calling My Phone - Lil Tjay/6LACK  ·  1 plays
 ```
 
 <!-- music_time ends -->
