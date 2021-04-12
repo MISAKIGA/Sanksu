@@ -52,8 +52,8 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 492 hrs 31 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 394 hrs 49 mins
+🔫 Counter-Strike: Global Offensive 🕘 494 hrs 1 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 411 hrs 32 mins
 🎮 Sea of Thieves                   🕘 47 hrs 43 mins
 🎮 Counter-Strike                   🕘 21 hrs 39 mins
 🎮 Counter-Strike: Source           🕘 13 hrs 5 mins
@@ -71,11 +71,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 Don't Hide - Mike Perry/Willemijn May  ·  1 plays
-🥈 Summer - Little End  ·  1 plays
-🥉 Sky - Little End  ·  1 plays
-   One more time, One more chance - 山崎まさよし  ·  1 plays
-   The Sound of Silence - Dan Gibson  ·  1 plays
+🥇 流れ行く云 - 岸部眞明  ·  4 plays
+🥈 Bloom of Youth - 清水淳一  ·  3 plays
+🥉 Time travel - 岸部眞明  ·  3 plays
+   Stay Alive - José González  ·  3 plays
+   Midday - Aquila  ·  3 plays
 ```
 
 <!-- music_time ends -->
